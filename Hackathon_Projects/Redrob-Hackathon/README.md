@@ -70,9 +70,24 @@ Generated file:
 
 output/submission_final_v1.csv
 
-## Team
+## Team Information
 
-Team Name: Alpha Decoder
+**Team Name:** Alpha Decoder
 
-Team Leader: Ayush
+**Team Leader:** Ayush
+
+**Hackathon:** Redrob Intelligent Candidate Discovery & Ranking Challenge
+
+## Author
+
+**Ayush Rajput**
+
+* BS in Data Science, IIT Madras
+* Aspiring Data Scientist
+* GitHub: https://github.com/Ayush-eng-ai
+
+## Contact
+
+For project-related queries, please connect through GitHub.
+
 
