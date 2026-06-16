@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+Hackathon_Projects/Redrob-Hackathon/venv/
+
+# Large Dataset
+Hackathon_Projects/Redrob-Hackathon/data/candidates.jsonl
+
+# CSV Outputs
+Hackathon_Projects/Redrob-Hackathon/output/*.csv
